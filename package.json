@@ -128,7 +128,7 @@
     "is-docker": "^2.0.0",
     "is-heroku": "^2.0.0",
     "is-windows": "^1.0.2",
-    "js-yaml": "^3.13.1",
+    "js-yaml": "^4.1.1",
     "jsonwebtoken": "0.4.0",
     "jssha": "^2.4.2",
     "libxmljs2": "^0.25.3",
